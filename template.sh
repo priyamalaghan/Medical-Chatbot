@@ -12,4 +12,4 @@ touch app.py
 touch research/trails.ipynb
 touch requirements.txt
 
-echo "Dirctory and files created successfully."
+echo "Directory and files created successfully."
